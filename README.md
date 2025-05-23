@@ -15,4 +15,5 @@ This repository contains a dataset and accompanying SQL exercises focused on Net
 
 ## License
 
+
 This project is for educational purposes only.
